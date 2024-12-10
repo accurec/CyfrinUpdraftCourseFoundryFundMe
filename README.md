@@ -57,3 +57,4 @@ As part of lesson I've learned a bunch of things:
 7) [Etherscan explorer](https://etherscan.io/)
 8) [Chainlink data feeds](https://docs.chain.link/data-feeds)
 9) [EVM codes](https://www.evm.codes/)
+10) [Chainlink Brownie contracts](https://github.com/smartcontractkit/chainlink-brownie-contracts)
